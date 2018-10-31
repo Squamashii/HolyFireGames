@@ -1,0 +1,4 @@
+01-08: Check
+09-26: Remove Mag
+27-42: Replace Mag
+43-60: Cock
