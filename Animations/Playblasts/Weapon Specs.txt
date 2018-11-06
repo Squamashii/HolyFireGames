@@ -1,0 +1,14 @@
+AR01:
+AR02: Scale(0.75)
+AR03:
+AR04: Scale(0.85)
+GL01: SCale(1.00)
+MG01:
+Pistols: Scale(1.00)
+RL_01:
+RL_02: Right Hand (1.00)
+SG_01: (0.80)
+SG_02: (0.75)
+SG_03: (1.00)
+SG_04: (0.90)
+
