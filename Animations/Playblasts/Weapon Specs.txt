@@ -1,19 +1,39 @@
-AR01: Scale(0.85)
-AR02: Scale(0.75)
-AR03:
-AR04: Scale(0.85)
-GL01: SCale(1.00)
-MG01:
-Pistols: Scale(1.00)
-RL_01:
-RL_02: Right Hand (1.00)
-SG_01: (0.80)
-SG_02: (0.75)
-SG_03: (1.00)
-SG_04: (0.90)
-Sniper_01 (0.80)
-Sniper_02 (0.80)
-SMG_01: (1.00)
-SMG_02: (0.80)
-SMG_03: (0.80)
+AR01: 0.85
+AR02: 0.75
+AR03: 0.75
+AR04: 0.85
+GL01: 1.00
+MG01: 0.85
+Pistols: 1.00
+RL_01: 1.00
+RL_02: Right Hand 1.00
+SG_01: 0.80
+SG_02: 0.75
+SG_03: 1.00
+SG_04: 0.90
+Sniper_01: 0.80
+Sniper_02: 0.80
+SMG_01: 1.00
+SMG_02: 0.80
+SMG_03: 0.80
 
+W2-------
+AR01: 0.80
+AR02: 0.80
+AR03: 0.85
+AR04: 0.80
+AR05: 0.80
+Pistol: 1.0
+Mini: 0.85
+RL: 1.00
+Sentry: 1.00
+SG01: 0.85
+SG02: 1.00
+Sniper01: 0.80
+Sniper02: 0.8
+SMG01: 1.0
+SMG02: 1.0
+SMG03: 0.9
+SMG04: 0.9
+SMG05: 0.85
+SMG06: 0.85
